@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 184" role="img" aria-label="Loved it — four out of five stars, Reedsy Discovery">
+  <defs>
+    <path id="rstar" d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+  </defs>
+  <text x="230" y="74" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="62" fill="#1a1510">Loved it!</text>
+  <g transform="translate(128,98)">
+    <g transform="translate(0,0)">  <use href="#rstar" transform="scale(1.5)" fill="#e8b54a"/></g>
+    <g transform="translate(42,0)"> <use href="#rstar" transform="scale(1.5)" fill="#e8b54a"/></g>
+    <g transform="translate(84,0)"> <use href="#rstar" transform="scale(1.5)" fill="#e8b54a"/></g>
+    <g transform="translate(126,0)"><use href="#rstar" transform="scale(1.5)" fill="#e8b54a"/></g>
+    <g transform="translate(168,0)"><use href="#rstar" transform="scale(1.5)" fill="#d8d2c6"/></g>
+  </g>
+  <text x="230" y="172" text-anchor="middle" font-family="'Jost','Futura','Century Gothic',Arial,sans-serif" font-size="14" letter-spacing="3.4" fill="#8a6d3b">REEDSY&#160;DISCOVERY</text>
+</svg>
